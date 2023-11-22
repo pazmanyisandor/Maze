@@ -36,15 +36,13 @@ The assets folder is organized to support the development and deployment of the 
 - **labyrinthWall.prefab**
   - Prefab for the walls of the labyrinth.
 - **ChestFreeScene.unity**
-  - A Unity scene that is likely part of the ChestFree asset package.
+  - A Unity scene that is part of the ChestFree asset package.
 - **Result.unity** and **Testbed.unity**
   - Scene files for the demonstration and testing environments.
 
 ### Miscellaneous Files
-- **MoveToTarget.onnx**
-  - The ONNX file at the root may be an earlier or alternative version of the agent's brain.
 - **documentation.md**
-  - A Markdown file presumably containing additional documentation.
+  - This file, containing additional documentation.
 
 This structure ensures a well-organized workflow, making each component of the project easily accessible for development and management purposes.
 
@@ -110,3 +108,8 @@ The `MoveToTarget` class is a part of the Project Maze, which demonstrates the a
 
 ### Usage
 This agent is a key component of the Project Maze. Attach it to a GameObject in a Unity scene and configure the serialized fields in the Unity Inspector. The agent will interact with its environment according to the implemented logic, either in training or inference modes, showcasing machine learning capabilities in a Unity environment.
+
+## Other parts of the documentation
+- Photos of the environment
+- Photos of the Agent's learning progress, with the milestones highlighted
+- Videos: can be accessed on this link: https://unidebhu-my.sharepoint.com/:f:/g/personal/ps2004_mailbox_unideb_hu/EuF4_uMrcptPkiZqVc3aJnYBYtnNRHBa2GKqGacuWth53Q?e=gCkCSl
